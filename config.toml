@@ -1,6 +1,7 @@
 baseurl = "/"
 title = "Koderhtml's blog"
 theme = "ghostwriter"
+copyright = "Kieran Klukas"
 
 [Params]
     mainSections = ["post"]
@@ -8,11 +9,13 @@ theme = "ghostwriter"
     headline = "KCoderhtml's Blog"
     description = "My Blog: where I write about things!"
     github = "https://github.com/kcoderhtml"
-    twitter = "https://twitter.com/XXX"
     email = "XXX@example.com"
     opengraph = true
     shareTwitter = false
     dateFormat = "Mon, Jan 2, 2006"
+    rss = true
+    readingTime = true
+    readingTimeText = "Estimated reading time:"
 
 [Permalinks]
     post = "/:filename/"
