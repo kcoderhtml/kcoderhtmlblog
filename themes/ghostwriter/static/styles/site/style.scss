@@ -60,7 +60,7 @@ blockquote {
     padding: 5px 30px;
 
     p {
-        color: #AEADAD;
+        color: #888;
         display: block;
         font-style: italic;
         margin: 0;
@@ -131,7 +131,7 @@ table {
 
     td { padding: 10px; }
 
-    tr { border-bottom: 1px dotted #AEADAD; }
+    tr { border-bottom: 1px dotted #888; }
 }
 
 ::selection {
@@ -302,13 +302,13 @@ table {
 .post-date,
 .post-reading,
 .blog-description {
-    color: #AEADAD;
+    color: #888;
     font-size: 14px;
     font-weight: 600;
     line-height: 1;
     margin: 25px 0 0;
 
-    a { color: #AEADAD; }
+    a { color: #888; }
     a:hover { color: $primary; }
 }
 
@@ -350,7 +350,7 @@ table {
 
 .post-tags,
 .share {
-    color: #AEADAD;
+    color: #888;
     font-size: 14px;
 
     span { font-weight: 600; }
@@ -512,7 +512,7 @@ table {
 }
 
 .author-meta {
-    color: #AEADAD;
+    color: #888;
     font-size: 14px;
     font-weight: 600;
     line-height: 1;
@@ -527,7 +527,7 @@ table {
 
     i { margin-right: 8px; }
 
-    a { color: #AEADAD; }
+    a { color: #888; }
     a:hover { color: $primary; }
 }
 
