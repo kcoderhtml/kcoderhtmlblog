@@ -8,18 +8,18 @@ draft=false
 # KlukasCraft ModPack -- A Post.
 ---
 Welcome to my post about the KlukasCraft ModPack. It has these mods:
-* Simple Hud Utilities v2.3.0
-* Camera Overhaul v1.3.0
-* Falling Leaves v1.8.0
-* Mod Menu v3.0.0
-* Better F3 v1.2.0
-* Cloth Config API v6.0.42
-* Simple Voice Chat v2.1.16
-* Not Enough Crashes v4.1.3
-* Not Enough Animations v1.4.0
-* Fabric API v0.44.0
-* Accurate Block Placement v1.0.11
-* Cloth API v2.0.54    
+* Simple Hud Utilities v2.3.0 [Download](https://www.curseforge.com/minecraft/mc-mods/simple-utilities)
+* Camera Overhaul v1.3.0 [Download](https://www.curseforge.com/minecraft/mc-mods/cameraoverhaul)
+* Falling Leaves v1.8.0 [Download](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric)
+* Mod Menu v3.0.0 [Download](https://www.curseforge.com/minecraft/mc-mods/modmenu)
+* Better F3 v1.2.0 [Download](https://www.curseforge.com/minecraft/mc-mods/betterf3)
+* Cloth Config API v6.0.42 [Download](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
+* Simple Voice Chat v2.1.16 [Download](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/download/3543507/file)
+* Not Enough Crashes v4.1.3 [Download](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes)
+* Not Enough Animations v1.4.0 [Download](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)
+* Fabric API v0.44.0 [Download](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
+* Accurate Block Placement v1.0.11 [Download](https://www.curseforge.com/minecraft/mc-mods/accurate-block-placement)
+* Cloth API v2.0.54 [Download](https://www.curseforge.com/minecraft/mc-mods/cloth-api)
 
 ## Simple Hud Utilities
 A Mod that enhances the Game's HUD with some simple utilities like the following:
