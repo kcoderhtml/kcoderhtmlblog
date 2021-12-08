@@ -23,17 +23,16 @@ Welcome to my post about the KlukasCraft ModPack. It has these mods:
 
 ## Simple Hud Utilities
 A Mod that enhances the Game's HUD with some simple utilities like the following:
-- HUD Features:
-  - Simplified coordinates that are available at all times on the screen (Example: 39, 64, 200 as X, Y, Z)
-  - Cardinal directions and which Coordinates are increasing/decreasing (Example: (East X+) when looking East, where the X coordinate is increasing)
-  - Current armour and hand items and their durabilities, available at all times on the screen
-   - Different colors based on how low the durability is
-   - Current Game time in AM/PM format
-   - Current sprinting status
-   - Current framerate
-   - Current Biome the player is on
-   - Toggle key (editable in Controls screen, default is 'k')
-   - Settings page and config file with Mod Menu
+ - Simplified coordinates that are available at all times on the screen (Example: 39, 64, 200 as X, Y, Z)
+ - Cardinal directions and which Coordinates are increasing/decreasing (Example: (East X+) when looking East, where the X coordinate is increasing)
+ - Current armour and hand items and their durabilities, available at all times on the screen
+  - Different colors based on how low the durability is
+  - Current Game time in AM/PM format
+  - Current sprinting status
+  - Current framerate
+  - Current Biome the player is on
+  - Toggle key (editable in Controls screen, default is 'k')
+  - Settings page and config file with Mod Menu
 ## Camera Overhaul
 It's a clientside mod that attempts to improve overall satisfaction of the game through the introduction of various camera rotations, to emphasize on the player's movement and improve visual feedback. Strafing and turning around will tilt the camera sideways. Jumping, falling, and moving forward/backwards will affect the camera's pitch.
 ## Falling Leaves
