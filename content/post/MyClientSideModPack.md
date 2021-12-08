@@ -7,7 +7,7 @@ draft=false
 +++
 # KlukasCraft ModPack -- A Post.
 ---
-Welcome to my post about the KlukasCraft ModPack. This Modpack was created for my self to have a few tweaks that together look very good but also is 100% compatible with vanilla servers. It has these mods:
+Welcome to my post about the KlukasCraft ModPack. This Modpack was created for my self to have a few tweaks that together look very good but also is 100% compatible with vanilla servers. With the talking out of the way here is the modpack:
 * Simple Hud Utilities v2.3.0 [Download](https://www.curseforge.com/minecraft/mc-mods/simple-utilities)
 * Camera Overhaul v1.3.0 [Download](https://www.curseforge.com/minecraft/mc-mods/cameraoverhaul)
 * Falling Leaves v1.8.0 [Download](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric)
