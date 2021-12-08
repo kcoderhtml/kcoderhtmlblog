@@ -7,7 +7,7 @@ draft=false
 +++
 # KlukasCraft ModPack -- A Post.
 ---
-Welcome to my post about the KlukasCraft ModPack. It has these mods:
+Welcome to my post about the KlukasCraft ModPack. This Modpack was created for my self to have a few tweaks that together look very good but also is 100% compatible with vanilla servers. It has these mods:
 * Simple Hud Utilities v2.3.0 [Download](https://www.curseforge.com/minecraft/mc-mods/simple-utilities)
 * Camera Overhaul v1.3.0 [Download](https://www.curseforge.com/minecraft/mc-mods/cameraoverhaul)
 * Falling Leaves v1.8.0 [Download](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric)
@@ -42,7 +42,7 @@ Adds a screen for viewing a list of installed mods.
   - The menu is searchable and sortable, libraries can be hidden.
   - Client-side and API mods are marked with a special badge in the list.
   - When clicking a mod in the list, its homepage, issues link and description are displayed.
-  - The mod details page also lets the user configure the mod, if available (can be disabled for modpacks via config). 
+  - The mod details page also lets the user configure the mod, if available (can be disabled for modpacks via config).
 ## Better F3
 BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD. You can customize colors, position, add spacings, and more.
 
@@ -109,7 +109,7 @@ Fabric API is the core library for the most common hooks and intercompatibility 
 ## Accurate Block Placement
 Inspired by the excellent 1.12.2 mod BetterPlacement. This is an 100% client side mod. You can put it on a server, but it won't do anything. Although many experienced minecraft players know exactly how to time their clicks in order to rapidly place blocks with no mistakes, why should it be that difficult? In this mod, if you hold your 'use key' (usually RMB) and look at a new block it will automatically place it no matter how fast you move. No more need to time when you click or look in order to accurately place blocks quickly! You can set a keybind in the controls menu for switching to and from standard vanilla placing behavior.
 ## Cloth API
-Cloth API is a generalized api.  
+Cloth API is a generalized api.
 
 ---
 
