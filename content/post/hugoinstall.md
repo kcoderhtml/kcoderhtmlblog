@@ -2,6 +2,7 @@
 title = "Getting Started with Hugo"
 description = ""
 date = "2014-04-02"
+author = "Juraj Bubniak"
 +++
 
 ## Step 1. Install Hugo
