@@ -2,7 +2,7 @@ baseurl = "/"
 title = "Koderhtml's blog"
 theme = "ghostwriter"
 copyright = "Kieran Klukas"
-googleAnalytics = "G-B5HY38HFP4"
+googleAnalytics = "G-WQEG4L6932"
 
 [Params]
     mainSections = ["post"]
