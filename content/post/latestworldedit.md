@@ -1,7 +1,7 @@
 +++
 title = "Latest version of Worldedit"
 description = "Worldedit -- How to get the latest version."
-date = 2021-11-19T17:48:36Z
+date = 2021-12-10T09:16:11Z
 author = "Kieran Klukas"
 draft=false
 +++
