@@ -13,4 +13,4 @@ Worldedit is really great but its releases for a new version can take a while. T
 * Click the Expirimental Builds button for which ever platform your downloading. I chose Bukkit.![worldedit downloads](/pictures/latestworldedit/latestworldedit-downloads.png)
 * Click the View latest Succesful Build button.![worldedit downloads](/pictures/latestworldedit/latestworldedit-builds.png)
 * Click the download of your choice! I chose Bukkit but chose your platform![worldedit downloads](/pictures/latestworldedit/latestworldedit-latestbuild.png)
-Thats it for this tutorial enjoy your latest Worldedit build!
+Thats it for this tutorial. I hope you will enjoy your latest Worldedit build! Remember this is a nonstable build so it can have bugs these builds should only be used for fun but not in any production envirenments
