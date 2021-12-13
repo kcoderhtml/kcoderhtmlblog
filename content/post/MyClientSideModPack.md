@@ -14,7 +14,7 @@ Welcome to my post about the KlukasCraft ModPack. This Modpack was created for m
 * Mod Menu v3.0.0 [Download](https://www.curseforge.com/minecraft/mc-mods/modmenu)
 * Better F3 v1.2.0 [Download](https://www.curseforge.com/minecraft/mc-mods/betterf3)
 * Cloth Config API v6.0.42 [Download](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
-* Simple Voice Chat v2.1.16 [Download](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/download/3543507/file)
+* Simple Voice Chat v2.1.22 (make sure to get this version!) [Download](https://www.curseforge.com/minecraft/bukkit-plugins/simple-voice-chat/download/3557441)
 * Not Enough Crashes v4.1.3 [Download](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes)
 * Not Enough Animations v1.4.0 [Download](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)
 * Fabric API v0.44.0 [Download](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
