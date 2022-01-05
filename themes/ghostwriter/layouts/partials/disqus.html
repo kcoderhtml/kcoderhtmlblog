@@ -1,11 +1,5 @@
-<div id='comments'>
-  <h1 id="comments">Comments</h1>
-  <hr>
-  <script src="https://utteranc.es/client.js"
-          repo="kcoderhtml/kcoderhtmlblog"
-          issue-term="pathname"
-          theme="github-light"
-          crossorigin="anonymous"
-          async>
-  </script>
-</div>
+{{ if .Site.DisqusShortname }}
+    <div class="comments">
+        {{ template "_internal/disqus.html" . }}
+    </div>
+{{ end }}
