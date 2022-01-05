@@ -3,6 +3,7 @@ title = "Koderhtml's blog"
 theme = "ghostwriter"
 copyright = "Kieran Klukas"
 googleAnalytics = "G-WQEG4L6932"
+disqusShortname = 'yourdiscussshortname'
 
 [Params]
     mainSections = ["post"]
