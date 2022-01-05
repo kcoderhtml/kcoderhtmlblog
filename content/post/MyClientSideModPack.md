@@ -114,7 +114,3 @@ Cloth API is a generalized api.
 ---
 
 Thanks for Reading! I hope these mods may help your minecraft worlds and servers come alive.
-
----
-##Comments
-{{ template "_internal/disqus.html" . }}
