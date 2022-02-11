@@ -1,6 +1,6 @@
 baseurl = "/"
 title = "Koderhtml's blog"
-theme = "ghostwriter"
+theme = "ghostwriter-0.6.0"
 copyright = "Kieran Klukas"
 googleAnalytics = "G-WQEG4L6932"
 
